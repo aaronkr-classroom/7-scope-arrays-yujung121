@@ -1,2 +1,2 @@
-# 1-hello-c
-2주차 C 실습
+# 7-scope-arrays
+7주차 C 실습
